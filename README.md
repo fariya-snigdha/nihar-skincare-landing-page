@@ -1,3 +1,4 @@
+![Nihar Skincare Landing Page](cover.png)
 # Nihar Skincare Landing Page | WordPress & Elementor
 
 A modern and responsive Bengali skincare landing page designed to showcase skincare products through an elegant and user-friendly interface.
